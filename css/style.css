@@ -1,0 +1,89 @@
+body{
+    font-family: "Monrope", sans-serif;
+    font-weight: normal;
+    color:#18191F;
+    
+    
+}
+h1, p{
+    margin: 0;
+}
+.polygon{
+    width: 1440px;
+    height: 866px;
+    margin: 0 auto;
+    background-color: #EAF2F5; 
+
+    
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+header{
+    padding-top: 22px;
+    padding-bottom: 22px;
+    position: fixed;
+    margin-left: 128px;
+}
+
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+.heder-img{
+    margin-right: 690px;
+    vertical-align: middle;
+    
+}
+.ml-32{
+    margin-left: 32px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    color:#18191F;
+}
+
+.left, .right{
+    display: inline-block;  
+    
+
+}
+.left{
+    width: 540px;
+}
+
+.textblock{
+    width: 530px;
+    height: 356px;
+    margin-left: 50px;
+    
+}
+
+h1{
+    font-weight: 700;
+    font-size: 74px;
+    line-height: 98px;
+    margin-top: 300px;
+    margin-bottom: 10px;
+    
+}
+
+p {
+    font-size: 19px;
+    line-height: 32px;
+    margin-bottom: 32px;
+    
+}
+
+.right{
+    width: 735px;
+    height: 866px;
+    margin-left: 625px;
+    margin-top: -656px;
+}
